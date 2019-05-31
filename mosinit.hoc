@@ -1,0 +1,2 @@
+load_file("nrngui.hoc")
+load_file("AIS_axon_uniform6_withMyelin090211.hoc")
